@@ -7,18 +7,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=06B6D4&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hi%2C+I'm+Talha!;%F0%9F%8E%93+Data+Science+Undergraduate+%40+PUCIT;%F0%9F%A7%A0+ML+Engineering+Intern;%F0%9F%90%8D+Python+Programmer+%26+Problem+Solver;%F0%9F%9B%A0%EF%B8%8F+Turning+ideas+into+useful+tools" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Muhammad-TalhaAmin&label=Profile%20Views&color=06B6D4&style=for-the-badge" alt="views" />
 <a href="https://talhaamin.tech"><img src="https://img.shields.io/badge/Portfolio-talhaamin.tech-0F172A?style=for-the-badge&logo=googlechrome&logoColor=06B6D4" alt="portfolio" /></a>
-<a href="https://github.com/Muhammad-TalhaAmin?tab=followers"><img src="https://img.shields.io/github/followers/Muhammad-TalhaAmin?style=for-the-badge&logo=github&color=1E3A8A" alt="followers" /></a>
 
 </div>
 
 <br/>
 
 <!-- ═══════════════ ABOUT ═══════════════ -->
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=50&section=header&text=About%20Me&fontSize=24&fontColor=06B6D4&fontAlignY=55" width="100%" alt="About Me" />
 
 <table>
 <tr>
@@ -26,11 +24,11 @@
 
 ```python
 class Talha:
-    name      = "Muhammad Talha Amin"
-    role      = ["Data Science Undergraduate", "ML Engineering Intern"]
+    name       = "Muhammad Talha Amin"
+    role       = ["Data Science Undergraduate", "ML Engineering Intern"]
     university = "PUCIT (University of the Punjab)"
-    focus     = ["Machine Learning", "Data Analysis", "AI", "Full Stack"]
-    languages = ["Python 🐍", "SQL", "HTML/CSS"]
+    focus      = ["Machine Learning", "Data Analysis", "AI", "Full Stack"]
+    languages  = ["Python 🐍", "SQL", "HTML/CSS"]
 
     def mission(self):
         return "Learn by building. Ship useful things. Repeat. 🔁"
@@ -53,7 +51,7 @@ RAG systems • MLOps • Deep Learning
 </table>
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
-## 🛠️ Tech Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=50&section=header&text=Tech%20Arsenal&fontSize=24&fontColor=06B6D4&fontAlignY=55" width="100%" alt="Tech Arsenal" />
 
 <div align="center">
 
@@ -70,40 +68,17 @@ RAG systems • MLOps • Deep Learning
 </div>
 
 <!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://tixora-lemon.vercel.app">
-  <img src="https://img.shields.io/badge/🎟️%20Tixora-AI%20Event%20Ticketing%20%7C%20Live%20Demo-06B6D4?style=for-the-badge&labelColor=0F172A" alt="Tixora" />
-</a>
-
-<sub>An AI-powered secure event ticketing platform with real-time fraud detection, verified QR-code tickets, and an organizer analytics dashboard.</sub>
-
-<br/><br/>
-
-<a href="https://github.com/Muhammad-TalhaAmin/data-science-notebooks">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-TalhaAmin&repo=data-science-notebooks&theme=tokyonight&hide_border=true&border_radius=12" alt="data-science-notebooks" />
-</a>
-<a href="https://github.com/Muhammad-TalhaAmin/Musical-Time-Machine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-TalhaAmin&repo=Musical-Time-Machine&theme=tokyonight&hide_border=true&border_radius=12" alt="Musical-Time-Machine" />
-</a>
-<br/>
-<a href="https://github.com/Muhammad-TalhaAmin/Password-Manager-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-TalhaAmin&repo=Password-Manager-App&theme=tokyonight&hide_border=true&border_radius=12" alt="Password-Manager-App" />
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=50&section=header&text=Featured%20Projects&fontSize=24&fontColor=06B6D4&fontAlignY=55" width="100%" alt="Featured Projects" />
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| 🎟️ **[Tixora](https://tixora-lemon.vercel.app)** | Fraud-aware event ticketing with QR verification & analytics | `Python` `ML` `Flask` |
+| 🎟️ **[Tixora](https://tixora-lemon.vercel.app)** | AI-powered secure event ticketing with real-time fraud detection, verified QR-code tickets, and an organizer analytics dashboard | `Python` `ML` `Flask` |
 | 📓 **[Data Science Notebooks](https://github.com/Muhammad-TalhaAmin/data-science-notebooks)** | Jupyter explorations with pandas, NumPy, Matplotlib, Seaborn, Plotly | `Jupyter` `pandas` `Plotly` |
 | 🎶 **[Musical Time Machine](https://github.com/Muhammad-TalhaAmin/Musical-Time-Machine)** | Recreates playlists from any historical date via API integration | `Python` `APIs` |
-| 🔒 **[Password Manager](https://github.com/Muhammad-TalhaAmin/Password-Manager-App)** | Desktop tool for safely storing credentials | `Python` `GUI` |
+| 🔒 **[Password Manager](https://github.com/Muhammad-TalhaAmin/Password-Manager-App)** | Desktop tool for safely storing credentials while learning GUI development | `Python` `GUI` |
 
 <!-- ═══════════════ 3D CONTRIBUTIONS ═══════════════ -->
-## 🧊 My Contributions in 3D
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=50&section=header&text=My%20Contributions%20in%203D&fontSize=24&fontColor=06B6D4&fontAlignY=55" width="100%" alt="3D Contributions" />
 
 <div align="center">
 
@@ -113,7 +88,7 @@ RAG systems • MLOps • Deep Learning
 </div>
 
 <!-- ═══════════════ STATS ═══════════════ -->
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=50&section=header&text=GitHub%20Stats&fontSize=24&fontColor=06B6D4&fontAlignY=55" width="100%" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -131,27 +106,22 @@ RAG systems • MLOps • Deep Learning
 </div>
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
-## 🐍 Snake Eating My Contributions
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=50&section=header&text=Snake%20Eating%20My%20Contributions&fontSize=24&fontColor=06B6D4&fontAlignY=55" width="100%" alt="Snake" />
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-TalhaAmin/Muhammad-TalhaAmin/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-TalhaAmin/Muhammad-TalhaAmin/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Muhammad-TalhaAmin/Muhammad-TalhaAmin/output/github-snake.svg" />
-</picture>
+<img alt="snake animation" src="https://raw.githubusercontent.com/Muhammad-TalhaAmin/Muhammad-TalhaAmin/output/github-snake-dark.svg" />
 
 </div>
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
-## 🤝 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A8A&height=50&section=header&text=Let's%20Connect&fontSize=24&fontColor=06B6D4&fontAlignY=55" width="100%" alt="Let's Connect" />
 
 <div align="center">
 
-<a href="https://talhaamin.tech"><img src="https://img.shields.io/badge/🌐%20Portfolio-0F172A?style=for-the-badge&logoColor=white" alt="portfolio" /></a>
-<a href="https://talhaamin.tech/contact.html"><img src="https://img.shields.io/badge/📬%20Contact%20Me-06B6D4?style=for-the-badge&logoColor=white" alt="contact" /></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://talhaamin.tech"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=06B6D4" alt="portfolio" /></a>
+<a href="https://www.linkedin.com/in/talha-amin-1a3785288/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:talhaamin741@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="email" /></a>
 
 <br/><br/>
 
